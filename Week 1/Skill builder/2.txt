@@ -1,6 +1,0 @@
-# You are using Python
-a=float(input())
-b=float(input())
-
-product=a*b
-print(product)

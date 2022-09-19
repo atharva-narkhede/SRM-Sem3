@@ -1,3 +1,0 @@
-# You are using Python
-a=input()
-print(a)

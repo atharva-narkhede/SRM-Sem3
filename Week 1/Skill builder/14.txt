@@ -1,5 +1,0 @@
-# You are using Python
-word1 = " Arise"
-word2 = " stop not "
-word3 = " goal is "
-print(word1,"awake and",word2,"till the", word3,"reached")
