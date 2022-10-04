@@ -1,3 +1,6 @@
+#Dothraki are planning an attack to usurp King Robert's throne.
+#King Robert learns of this conspiracy from Raven and plans to lock the single door through which the enemy can enter his kingdom.
+
 from typing import Counter
 
 
