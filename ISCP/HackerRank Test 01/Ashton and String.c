@@ -1,3 +1,5 @@
+/*Ashton appeared for a job interview and is asked the following question. Arrange all the distinct substrings of a given string in lexicographical order and concatenate them. Print the  character of the concatenated string. It is assured that given value of  will be valid i.e. there will be a  character. Can you help Ashton out with this?*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
