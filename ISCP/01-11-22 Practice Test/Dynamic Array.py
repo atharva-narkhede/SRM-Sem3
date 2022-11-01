@@ -1,4 +1,4 @@
-#Dynamic Array Hackerrank
+#Dynamic Array Hackerrank Solution
 
 
 a = input().split(' ')
