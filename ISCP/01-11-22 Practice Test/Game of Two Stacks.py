@@ -1,3 +1,4 @@
+#Game of Two Stacks hackerrank Solution
 #Alexa has two stacks of non-negative integers, stack  and stack  where index  denotes the top of the stack. Alexa challenges Nick to play the following game: Hackerrank
 
 def brute(a,b):
