@@ -1,4 +1,4 @@
-#Delete duplicate-value nodes from a sorted linked list Hackerrank
+#Delete duplicate-value nodes from a sorted linked list Hackerrank Solution
 
 
 def removeDuplicates(head):
